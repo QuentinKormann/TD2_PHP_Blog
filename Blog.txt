@@ -1,0 +1,2 @@
+<strong>Titre: </strong>Log<br/><strong>Date: </strong>24/11/16 11:23<br/><strong>Pseudo: </strong>Test<br/><strong>Message: </strong><br/>Pseudo: Test
+MdP: Test<br/><br/>
